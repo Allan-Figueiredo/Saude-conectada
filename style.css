@@ -204,7 +204,6 @@ section .title::after{
 /*  sessão sobre  */
 
 .about .title::after{
-    content: "Quem somos nós";
 }
 .about .about-content .left{
     width: 45%;
@@ -257,7 +256,6 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "O que oferecemos";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -293,7 +291,6 @@ section .title::after{
 }
 /*  sessão especialidades  */
 .skills .title::after{
-    content: "Futuro";
 }
 .skills .skills-content .column{
     width: calc(50% - 30px);
@@ -365,7 +362,6 @@ section .title::after{
 }
 /*  sessão equipe  */
 .teams .title::after{
-    content: "Especializada";
 }
 .teams .carousel .card{
     background: #222;
@@ -425,7 +421,6 @@ section .title::after{
 }
 /*  sessão Contato  */
 .contact .title::after{
-    content: "Fale conosco";
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
